@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/h32f74F.jpg");
+    -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+  
+  }
+  #formdiv{
+    color: antiquewhite;
+    background-image: url("https://wallpapercave.com/wp/XYyXgdZ.jpg");
+  }
+  span{
+    color: red;
+  }
